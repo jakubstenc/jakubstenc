@@ -1,0 +1,19 @@
+---
+title: ""
+format: html
+editor: visual
+---
+
+::: {.content-visible when-profile="english"}
+# Pollination Ecology Group
+
+Pollination Ecology Group is a research group based in Prague at the Faculty of Science, Charles University.
+
+People
+:::
+
+::: {.content-visible when-profile="english"}
+# Opylovači - výzkumná skupina
+
+## 
+:::
