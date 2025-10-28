@@ -9,11 +9,11 @@ website:
     left:
       - href: about.qmd#ome 
         text: O mě
-      - href: CV.qmd
+      - href: about.qmd##CVcze 
         text: Životopis
       - href: research.qmd
         text: Výzkumná témata
-      - href: PEG.qmd
+      - href: https://pollination-ecology-group.github.io/Pollination_ecology_group/Pollination_Ecology_Group.html#about
         text: Pollination Ecology Group
       - href: news.qmd
         text: Novinky 

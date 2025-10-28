@@ -17,7 +17,7 @@ website:
         text: CV
       - href: about.qmd#research
         text: Research
-      - href: PEG.qmd
+      - href: https://pollination-ecology-group.github.io/Pollination_ecology_group/Pollination_Ecology_Group.html#about
         text: Pollination Ecology Group
       - href: news.qmd
         text: News
@@ -30,7 +30,7 @@ website:
       - text: "{{< ai orcid size=2x >}}"
         aria-label: ORCID
         href:  https://orcid.org/0000-0003-0678-8452
-      - href: /cz/
+      - href: /cz/about.html
         text: Česky
   page-footer: 
     left: "Copyright 2024, Jakub Štenc" 
