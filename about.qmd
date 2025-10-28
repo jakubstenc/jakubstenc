@@ -6,9 +6,9 @@ format:
     anchor-sections: true
 ---
 
-# About me  {#about}
+::: {#about .content-visible when-profile="english"}
+# About me  {#about style="text-align: center;"}
 
-::: {.content-visible when-profile="english"}
 Hi, I am Jakub Štenc
 
 I am freshly finished PhD, currently looking for postdoc. I am interested in pollination, pollen transfer, floral ecology, pollinator behaviour and plant-pollinator interactions on the community level.
@@ -19,6 +19,8 @@ I am currently based at CREAF, Autonomous University of Barcelona, Spain, workin
 :::
 
 ::: {#ome .content-visible when-profile="czech"}
+# O mě {#ome style="text-align: center;"}
+
 Zdravím, jmenuji se Jakub Štenc
 
 v roce 2024 jsem dokončil své doktorské studium a momentálně hledám postdoktorandskou pozici. Zabývám se opylováním, přenosem pylu, květní ekologií, chováním opylovačů a ve výsledku mě zajímá jak spolu dokáží rostliny a opylovači existovat v rámci společenstva.
@@ -26,7 +28,7 @@ v roce 2024 jsem dokončil své doktorské studium a momentálně hledám postdo
 ![](images/js3.jpg){fig-align="center" width="275"}
 :::
 
-# CV  {#CV}
+# CV  {#CV style="text-align: center;"}
 
 ::: {#CVen .content-visible when-profile="english"}
 ## Current position
