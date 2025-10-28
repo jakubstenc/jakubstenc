@@ -20,12 +20,9 @@ website:
     right:
       - icon: github
         href: https://github.com/jakubstenc
-      - icon: twitter
-        href: https://twitter.com/Cotylledon
-      - text: "{{< ai google-scholar size=xl >}}"
+      - icon: google-scholar
         href: https://scholar.google.com/citations?user=xxxxx=en
       - icon: orcid 
-        text: "{{< ai orcid size=xl >}}"
         href: https://orcid.org/0000-0003-0678-8452
       - href: ../
         text: English
