@@ -20,7 +20,7 @@ website:
     right:
       - icon: github
         href: https://github.com/jakubstenc
-      - icon: google-scholar
+      - icon: < ai open-access color=red >
         href: https://scholar.google.com/citations?user=xxxxx=en
       - icon: orcid 
         href: https://orcid.org/0000-0003-0678-8452
