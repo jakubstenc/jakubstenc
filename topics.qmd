@@ -1,0 +1,29 @@
+---
+toc: true
+format: 
+  html: 
+    sidebar: true
+    anchor-sections: true
+---
+
+::: {.content-visible when-profile="english"}
+# Open topics for thesis
+:::
+
+::: {.content-visible when-profile="czech"}
+# Otevřená témata bakalářských, diplomových prací, Ph.D. témata
+
+## 
+
+## Přenos pylu
+
+V rámci tohoto tématu je možné zpracovávat bakalářskou a diplomovou práci pod mým vedením. Vypsaná témata najdete na této stránce.
+
+## Sdílení opylovačů rostlinami
+
+V rámci tohoto tématu je možné zpracovávat bakalářskou a diplomovou práci pod mým vedením.
+
+## Chování opylovačů
+
+V rámci tohoto tématu je možné zpracovávat bakalářskou a diplomovou práci pod mým vedením.
+:::

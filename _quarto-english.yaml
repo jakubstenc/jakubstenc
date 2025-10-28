@@ -1,0 +1,43 @@
+project:
+  title: "Jakub Štenc"
+  output-dir: ./docs
+  render:
+    - "*.qmd"
+    - "!archive/"
+  
+website:
+  page-navigation: true  
+  navbar:
+    logo: "images/pyl.png"
+    href: about.qmd    
+    left:
+      - href: about.qmd#about
+        text: About me 
+      - href: about.qmd#CVen
+        text: CV
+      - href: research.qmd
+        text: Research
+      - href: PEG.qmd
+        text: Pollination Ecology Group
+      - href: news.qmd
+        text: News
+    right:
+      - icon: github
+        href: https://github.com/jakubstenc
+      - icon: twitter
+        href: https://twitter.com/Cotylledon
+      - text: "{{< ai google-scholar size=xl >}}"
+        href: https://scholar.google.com/citations?user=xxxxx=en
+      - icon: orcid 
+        text: "{{< ai orcid size=xl >}}"
+        href: https://orcid.org/0000-0003-0678-8452
+      - href: /cz/
+        text: Česky
+  page-footer: 
+    left: "Copyright 2024, Jakub Štenc" 
+lang: en
+format:
+  html:
+    theme: sandstone
+    toc: true
+    toc-depth: 3

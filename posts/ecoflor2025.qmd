@@ -1,0 +1,37 @@
+---
+title: ""
+format: html
+editor: visual
+---
+:::: {.content-visible when-profile="english"}
+:::: {.content-visible when-profile="english"}
+### *Presentation ECOFLOR 2025, Leon, Spain*
+:::
+
+# Long-Term Pollinator Sharing in Plant-Pollinator Networks
+
+Jakub Štenc, Martin Freudenfeld, Jiří Hadrava, Michael Mikát, Eva Matoušková, Klára Daňková, Tomáš Jor, Tadeáš Ryšan, Klára Koupilová, Jan Simon-Pražák, Tomáš Dvořák, Zdeněk Janovský
+
+##### Contacts:
+
+-   Email: jakubstenc at gmail.com
+
+-   Phone/WhatsApp: +420 774 553 734
+
+![](images/stigma.png){width="200"}
+
+
+
+
+```{=html}
+<div class="embed-container">
+  <iframe src="ecoflor2025.pdf" style="border: 0.5px; width: 100%; height: 1000px"></iframe>
+</div>
+
+<p class="text-center">
+  <a class="btn btn-primary btn-lg cv-download" href="Martin_poster/ecoflor2025_poster.pdf" target="_blank">
+    <i class="fa-solid fa-file-arrow-down"></i>&ensp;Download presentation
+  </a>
+</p>
+```
+:::: 

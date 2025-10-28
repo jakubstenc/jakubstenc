@@ -1,0 +1,78 @@
+// Include theme-specific fonts
+@import url('https://fonts.googleapis.com/css2?family=Abhaya+Libre&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Jost:ital@0;1&display=swap');
+
+/*-- scss:defaults --*/
+// Override theme settings (see ../template/settings.scss)
+// Base settings for all themes that can optionally be
+// overridden by the super-theme
+
+// Background of the presentation
+$backgroundColor: white;
+
+// Primary/body text
+$mainFont: 'Jost', sans-serif;
+$mainFontSize: 30px;
+$mainColor: #333;
+
+// Vertical spacing between blocks of text
+$blockMargin: 20px;
+
+
+// Headings
+$headingMargin: 0 0 $blockMargin 0;
+$headingFont: 'Abhaya Libre', Impact, sans-serif;
+$headingColor: #40695B;
+$headingLineHeight: 1.2;
+$headingLetterSpacing: normal;
+$headingTextTransform: none;
+$headingTextShadow: none;
+$headingFontWeight: normal;
+
+$heading1Size: 3.00em;
+$heading2Size: 2.11em;
+$heading3Size: 1.55em;
+$heading4Size: 1.00em;
+
+$codeFont: monospace;
+
+// Links and actions
+$linkColor: #437597;
+$linkColorHover: darken( $linkColor, 100% );
+
+// Text selection
+$selectionBackgroundColor: #FF5E99;
+$selectionColor: white;
+
+// start using css here
+#title-slide > h1 {
+  color: white;
+}
+
+
+// Footer
+
+.reveal .footer {
+    background-color: #343a40;
+    display: block;
+    color: white;
+    position: fixed;
+    padding-bottom: 12px;
+    padding-top: 12px;
+    bottom: 0px !important; // Makes footer div flush with bottom of slide
+    width: 100%;
+    z-index: 2 !important; // Sets the footer div further down the z-index
+  }
+ // Logo
+
+.reveal .slide-logo {
+    margin-bottom: 6px !important; // Lowers logo more in line with rest of footer
+    z-index: 5 !important; // Keeps logo above footer div
+  }
+
+.reveal .backgrounds {
+  background-size: cover;
+  background-position: center;
+}
+
+
