@@ -1,2 +1,2 @@
 # jakubstenc
-my web
+my web is here https://jakubstenc.github.io/jakubstenc/about.html#about
