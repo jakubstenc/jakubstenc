@@ -15,7 +15,7 @@ website:
         text: About me 
       - href: about.qmd#CVen
         text: CV
-      - href: research.qmd
+      - href: about.qmd#research
         text: Research
       - href: PEG.qmd
         text: Pollination Ecology Group
