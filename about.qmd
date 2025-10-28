@@ -5,13 +5,15 @@ format:
     sidebar: true
     anchor-sections: true
 ---
-# About me
-::: {#about .content-visible when-profile="english"}
+
+# About me  {#about}
+
+::: {.content-visible when-profile="english"}
 Hi, I am Jakub Štenc
 
 I am freshly finished PhD, currently looking for postdoc. I am interested in pollination, pollen transfer, floral ecology, pollinator behaviour and plant-pollinator interactions on the community level.
 
-I am currently based at CREAF, Autonomous University of Barcelona, Spain, working on pollinator sharing among plants, within project funded by [GACR POSTDOC INDIVIDUAL FELLOWSHIP OUTGOING](https://gacr.cz/pif-out-2026/). 
+I am currently based at CREAF, Autonomous University of Barcelona, Spain, working on pollinator sharing among plants, within project funded by [GACR POSTDOC INDIVIDUAL FELLOWSHIP OUTGOING](https://gacr.cz/pif-out-2026/).
 
 ![](images/js3.jpg){fig-align="center" width="275"}
 :::
@@ -24,10 +26,9 @@ v roce 2024 jsem dokončil své doktorské studium a momentálně hledám postdo
 ![](images/js3.jpg){fig-align="center" width="275"}
 :::
 
+# CV  {#CV}
 
 ::: {#CVen .content-visible when-profile="english"}
-# CV
-
 ## Current position
 
 -   Employee at the Department of Zoology, Faculty of Science, Charles University with project [GACR POSTDOC INDIVIDUAL FELLOWSHIP OUTGOING](https://gacr.cz/pif-out-2026/) awarded in 2024, focusing on pollinator sharing among plant species
@@ -55,7 +56,6 @@ v roce 2024 jsem dokončil své doktorské studium a momentálně hledám postdo
 -   2023 -- 2025 - Employment on the INTER-ACTION-LUAUS23 project led by Petr Sklenář focusing on Pollination in tropical mountains, 0.5 FTE
 
 -   2024 -- 2025 - Employment on [Institute of Botany of the Czech Academy of](https://www.ibot.cas.cz/en/) [Sciences](https://www.ibot.cas.cz/en/)
-
 
 ## Grant support
 
@@ -104,7 +104,6 @@ v roce 2024 jsem dokončil své doktorské studium a momentálně hledám postdo
 -   Field course on Botany, Charles University in Prague, Czechia (2021; under leading of Jan Šťastný)
 
 -   Field course on Phytocenological and Plant-population Methods, Charles University in Prague, Czechia (2021; under leading of Tomáš Koubek)
-
 
 ## Supervised students
 
@@ -174,8 +173,6 @@ v roce 2024 jsem dokončil své doktorské studium a momentálně hledám postdo
 :::
 
 ::: {.content-visible when-profile="czech"}
-# Životopis
-
 -   Mgr. Jakub Štenc, Ph.D.
 
 -   Narozen: 4.března 1996 v Mladé Boleslavi
@@ -275,8 +272,6 @@ v roce 2024 jsem dokončil své doktorské studium a momentálně hledám postdo
 -   Koupilová, K., Štenc, J., & Janovský, Z. (2021). Pollen dispersal is driven by pollinator response to plant disease and plant spatial aggregation. Basic and Applied Ecology, 50, 77--86. <https://doi.org/10.1016/j.baae.2020.10.0072016-2017>
 :::
 
-
-
 ::: {.content-visible when-profile="english"}
 # Research topics
 
@@ -364,4 +359,3 @@ V rámci tohoto tématu je možné zpracovávat bakalářskou a diplomovou prác
 
 V rámci tohoto tématu je možné zpracovávat bakalářskou a diplomovou práci pod mým vedením.
 :::
-
