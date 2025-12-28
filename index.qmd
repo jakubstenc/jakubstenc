@@ -5,7 +5,9 @@ format:
     sidebar: true
     anchor-sections: true
 ---
+<head>
 <meta name="google-site-verification" content="_ALkyF3YuAHp5-OSHb0UI4JC0hCsn1ce9XL8cUxTKk8" />
+</head>
 :::: {#aboutme}
 ::: {#about .content-visible when-profile="english"}
 # About me {style="text-align: center;"}
