@@ -32,7 +32,7 @@ V současnosti pracuji ve výzkumném ústavu [CREAF](https://www.creaf.cat/en),
 
 ![](images/js3.png){fig-align="center" width="350"}
 :::: 
-# CV {#CV}
+# Curriculum vitae {#CVtag style="text-align: center;"}
 
 ::: {#CVen .content-visible when-profile="english"}
 ## Current position
@@ -283,7 +283,7 @@ V současnosti pracuji ve výzkumném ústavu [CREAF](https://www.creaf.cat/en),
 
 -   Koupilová, K., Štenc, J., & Janovský, Z. (2021). Pollen dispersal is driven by pollinator response to plant disease and plant spatial aggregation. Basic and Applied Ecology, 50, 77--86. <https://doi.org/10.1016/j.baae.2020.10.0072016-2017>
 :::
-
+:::: {#researchtopics}
 ::: {#research .content-visible when-profile="english"}
 # Research topics
 
@@ -371,6 +371,8 @@ V rámci tohoto tématu je možné zpracovávat bakalářskou a diplomovou prác
 
 V rámci tohoto tématu je možné zpracovávat bakalářskou a diplomovou práci pod mým vedením.
 :::
+:::: 
+:::: {#contanctme}
 
 ::: {#contactme .content-visible when-profile="english"}
 # Contact me
@@ -379,3 +381,4 @@ V rámci tohoto tématu je možné zpracovávat bakalářskou a diplomovou prác
 ::: {#kontaktujme .content-visible when-profile="czech"}
 # Kontaktuj mě!
 :::
+::::

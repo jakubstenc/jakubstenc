@@ -13,9 +13,9 @@ website:
     left:
       - href: index.qmd#aboutme
         text: About me 
-      - href: index.qmd#CVen
+      - href: index.qmd#CVtag
         text: CV
-      - href: index.qmd#research
+      - href: index.qmd#researchtopics
         text: Research
       - href: https://pollination-ecology-group.github.io/Pollination_ecology_group/Pollination_Ecology_Group.html#index
         text: Pollination Ecology Group
