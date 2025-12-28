@@ -19,7 +19,7 @@ website:
         text: Research
       - href: https://pollination-ecology-group.github.io/Pollination_ecology_group/Pollination_Ecology_Group.html#index
         text: Pollination Ecology Group
-      - href: index.qmd#contactme
+      - href: index.qmd#contanctme
         text: Contact me
       - href: news.qmd
         text: News

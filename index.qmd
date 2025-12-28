@@ -32,10 +32,12 @@ V současnosti pracuji ve výzkumném ústavu [CREAF](https://www.creaf.cat/en),
 
 ![](images/js3.png){fig-align="center" width="350"}
 :::: 
+
 # Curriculum vitae {#CVtag style="text-align: center;"}
 
-::: {#CVen .content-visible when-profile="english"}
-## Current position
+::: {#CVen .content-visible when-profile="english" style="text-align:  justify;"}
+
+## Current position {style="text-align: justify;"}
 
 -   Employee at the Department of Zoology, Faculty of Science, Charles University with project [GACR POSTDOC INDIVIDUAL FELLOWSHIP OUTGOING](https://gacr.cz/pif-out-2026/) awarded in 2024, focusing on pollinator sharing among plant species
 
@@ -176,7 +178,7 @@ V současnosti pracuji ve výzkumném ústavu [CREAF](https://www.creaf.cat/en),
 -   Koupilová, K., Štenc, J., & Janovský, Z. (2021). Pollen dispersal is driven by pollinator response to plant disease and plant spatial aggregation. Basic and Applied Ecology, 50, 77--86. <https://doi.org/10.1016/j.baae.2020.10.0072016-2017>
 :::
 
-::: {#CVcze .content-visible when-profile="czech"}
+::: {#CVcze .content-visible when-profile="czech" style="text-align: justify;"}
 -   Mgr. Jakub Štenc, Ph.D.
 
 -   Narozen: 4.března 1996 v Mladé Boleslavi
@@ -285,9 +287,9 @@ V současnosti pracuji ve výzkumném ústavu [CREAF](https://www.creaf.cat/en),
 :::
 :::: {#researchtopics}
 ::: {#research .content-visible when-profile="english"}
-# Research topics
+# Research topics {style="text-align: center;"}
 
-## FLOVID: FLOwer VIsitor Database
+## FLOVID: FLOwer VIsitor Database {style="text-align: justify;"}
 
 Who are the pollinators of wild plants? What are the global patterns in plant-pollinator interactions? What does shape the composition of pollinator spectra?
 
@@ -351,9 +353,9 @@ Currently, the following topics for bachelor's and master's thesis are available
 :::
 
 ::: {.content-visible when-profile="czech"}
-# Témata výzkumu
+# Témata výzkumu {style="text-align: center;"}
 
-## FLOVID: Databáze návštěvníků květů
+## FLOVID: Databáze návštěvníků květů {style="text-align: justify;"}
 
 ![Painted lady (Vanessa cardui) visiting danewort (Sambucus ebulus)](images/Vanessa_cardui_(babocka_bodlakova)_na_bezu_cehbdi2.jpg)
 
@@ -375,10 +377,10 @@ V rámci tohoto tématu je možné zpracovávat bakalářskou a diplomovou prác
 :::: {#contanctme}
 
 ::: {#contactme .content-visible when-profile="english"}
-# Contact me
+# Contact me  {style="text-align: center;"}
 :::
 
 ::: {#kontaktujme .content-visible when-profile="czech"}
-# Kontaktuj mě!
+# Kontaktuj mě! {style="text-align: center;"}
 :::
 ::::
