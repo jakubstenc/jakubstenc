@@ -26,9 +26,9 @@ I am currently based at [CREAF](https://www.creaf.cat/en), [Autonomous Universit
 Zdravím, jmenuji se Jakub Štenc.
 
 Jsem ekolog se zaměřením na polinační biologii.
-Zabývám se **opylováním**, přenosem pylu, květní ekologií, chováním opylovačů a ve výsledku mě zajímá, jak spolu dokáží rostliny a opylovači existovat v rámci společenstva[cite: 6].
+Zabývám se **opylováním**, přenosem pylu, květní ekologií, chováním opylovačů a ve výsledku mě zajímá, jak spolu dokáží rostliny a opylovači existovat v rámci společenstva.
 
-V současnosti působím ve výzkumném ústavu [CREAF](https://www.creaf.cat/en) při [Autonomní Univerzitě v Barceloně](https://www.uab.cat/web/universitat-autonoma-de-barcelona-1345467954774.html) ve Španělsku[cite: 7]. Zde pracuji na projektu zaměřeném na sdílení opylovačů mezi rostlinami v rámci grantu [GACR POSTDOC INDIVIDUAL FELLOWSHIP OUTGOING](https://gacr.cz/pif-out-2026/).
+V současnosti působím ve výzkumném ústavu [CREAF](https://www.creaf.cat/en) při [Autonomní Univerzitě v Barceloně](https://www.uab.cat/web/universitat-autonoma-de-barcelona-1345467954774.html) ve Španělsku. Zde pracuji na projektu zaměřeném na sdílení opylovačů mezi rostlinami v rámci grantu [GACR POSTDOC INDIVIDUAL FELLOWSHIP OUTGOING](https://gacr.cz/pif-out-2026/).
 
 :::
 
@@ -187,12 +187,12 @@ V současnosti působím ve výzkumném ústavu [CREAF](https://www.creaf.cat/en
 ## Jméno a datum narození {style="text-align: justify;"}
 
 -   Mgr. Jakub Štenc, Ph.D.
--   Narozen: 4. března 1996 v Mladé Boleslavi [cite: 34]
+-   Narozen: 4. března 1996 v Mladé Boleslavi 
 
 ## Současné zaměstnání {style="text-align: justify;"}
 
 -   Zaměstnanec na Katedře zoologie, Přírodovědecká fakulta UK, s projektem [GACR POSTDOC INDIVIDUAL FELLOWSHIP OUTGOING](https://gacr.cz/pif-out-2026/) uděleným v roce 2024, zaměřeným na sdílení opylovačů mezi rostlinnými druhy.
--   V současnosti na hostování v [CREAF](https://www.creaf.cat/en) ve skupině GEIP vedené [Jordi Boschem](https://orcid.org/0000-0002-8088-9457). [cite: 35]
+-   V současnosti na hostování v [CREAF](https://www.creaf.cat/en) ve skupině GEIP vedené [Jordi Boschem](https://orcid.org/0000-0002-8088-9457). 
 
 ## Kontakt {style="text-align: justify;"}
 
@@ -210,15 +210,15 @@ V současnosti působím ve výzkumném ústavu [CREAF](https://www.creaf.cat/en
 ## Vzdělání {style="text-align: justify;"}
 
 -   **Ph.D. studium** (2020 - 2024), Univerzita Karlova, Přírodovědecká fakulta, program Botanika.
-    Téma disertační práce: *Processes Driving Pollen Transfer in Generalised Pollination Systems*. Školitel: RNDr. Zdeněk Janovský Ph.D. Dokončeno „cum laude“[cite: 36, 37, 38].
+    Téma disertační práce: *Processes Driving Pollen Transfer in Generalised Pollination Systems*. Školitel: RNDr. Zdeněk Janovský Ph.D. Dokončeno „cum laude“.
 -   **Magisterské studium** (2018 - 2020), Univerzita Karlova, Přírodovědecká fakulta, program Botanika (geobotanika).
-    Diplomová práce: *Changes in pollinator behaviour under different plant spatial aggregation*. Školitel: RNDr. Zdeněk Janovský Ph.D. Dokončeno s vyznamenáním[cite: 39].
+    Diplomová práce: *Changes in pollinator behaviour under different plant spatial aggregation*. Školitel: RNDr. Zdeněk Janovský Ph.D. Dokončeno s vyznamenáním.
 -   **Bakalářské studium** (2015 – 2018), Univerzita Karlova, Přírodovědecká fakulta, program Biologie.
-    Bakalářská práce: *Přenos pylu jako funkce prostorového uspořádání rostlin a vlastností opylovačů*. Školitel: RNDr. Zdeněk Janovský Ph.D.[cite: 40].
+    Bakalářská práce: *Přenos pylu jako funkce prostorového uspořádání rostlin a vlastností opylovačů*. Školitel: RNDr. Zdeněk Janovský Ph.D.
 
 ## Mezinárodní zkušenost {style="text-align: justify;"}
 
--   **University of Tartu**, Estonsko (2019): 6 měsíců, studijní pobyt Erasmus[cite: 41].
+-   **University of Tartu**, Estonsko (2019): 6 měsíců, studijní pobyt Erasmus.
 -   **Rey Juan Carlos University**, Madrid, Španělsko (2022): 2 měsíce, stáž na oddělení biodiverzity pod vedením Marcose Méndeze.
 -   **University of Granada**, Španělsko (2023): 1 měsíc, stáž na katedře botaniky pod vedením Rocío Pérez Barrales.
 
@@ -226,7 +226,7 @@ V současnosti působím ve výzkumném ústavu [CREAF](https://www.creaf.cat/en
 
 -   **2018-2021** – Spoluřešitel projektu GAUK: *Plant population dynamics under anther smut epidemy and influence of pollinators on the rate of disease spread* (1193619).
 -   **2019-2022** – Hlavní řešitel projektu GAUK: *Flower traits as drivers of pollinator visitation behaviour* (842120).
--   **2021-2023** – Hlavní řešitel projektu GAUK STAR: *Do the plant pollen presentation schedules fit pollinator diurnal activity? A test of the Pollen Presentation Theory* (0016935)[cite: 42, 43].
+-   **2021-2023** – Hlavní řešitel projektu GAUK STAR: *Do the plant pollen presentation schedules fit pollinator diurnal activity? A test of the Pollen Presentation Theory* (0016935).
 -   **2025-2028** – Hlavní řešitel projektu GAČR (Postdoc Individual Fellowship Outgoing): *Long-term spatiotemporal dynamics in a plant-pollinator community and consequences for pollen transfer in a changing world* (25-17193O).
 
 ## Terénní zkušenost {style="text-align: justify;"}
@@ -234,14 +234,14 @@ V současnosti působím ve výzkumném ústavu [CREAF](https://www.creaf.cat/en
 -   2016-2017 – Sběr dat o polinačních sítích (vedoucí: Robert Tropek).
 -   2018-2020 – Experimenty se šířením květních snětí opylovači (vedoucí: Klára Koupilová).
 -   2017-2023 – Sběr dat pro vlastní bakalářskou, diplomovou a disertační práci.
--   2023 – 4 měsíce v Ekvádoru (Andy), výzkum polinační biologie ve vysokohorském prostředí (vedoucí: Petr Sklenář)[cite: 21].
+-   2023 – 4 měsíce v Ekvádoru (Andy), výzkum polinační biologie ve vysokohorském prostředí (vedoucí: Petr Sklenář).
 
 ## Jazykové a další dovednosti {style="text-align: justify;"}
 
 -   Čeština (rodilý mluvčí)
 -   Angličtina (pokročilý - C1/C2)
 -   Španělština (mírně pokročilý)
--   Řidičský průkaz sk. A1 a B [cite: 44]
+-   Řidičský průkaz sk. A1 a B
 
 ## Školení studenti {style="text-align: justify;"}
 
