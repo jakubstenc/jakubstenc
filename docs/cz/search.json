@@ -7,6 +7,13 @@
     "text": "Petr Švanda - Presentation ECOFLOR 2025, Leon, Spain\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPoster ECOFLOR 2025, Leon, Spain\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPresentation ECOFLOR 2025, Leon, Spain\n\n\n\n\n\n\n\n\n\n\n\nŽádné nalezené výsledky"
   },
   {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "O mně",
+    "section": "",
+    "text": "{#aboutme} ::: {#about .content-visible when-profile=“english”} # About me {style=“text-align: center;”}\nHi, I am Jakub Štenc\nI am a researcher focusing on ecology. I am interested in pollination, pollen transfer, floral ecology, pollinator behaviour and plant-pollinator interactions on the community level.\nWelcome on my websites where you can find some informations about me and my work.\nI am currently based at CREAF, Autonomous University of Barcelona, Spain, working on pollinator sharing among plants, within project funded by GACR POSTDOC INDIVIDUAL FELLOWSHIP OUTGOING. :::"
+  },
+  {
     "objectID": "index.html#jméno-a-datum-narození",
     "href": "index.html#jméno-a-datum-narození",
     "title": "O mně",
@@ -81,7 +88,35 @@
     "href": "index.html#publikace",
     "title": "O mně",
     "section": "Publikace",
-    "text": "Publikace\n\nJanovský, Z., & Štenc, J. (2023). Pollinator community and generalisation of pollinator spectra changes with plant niche width and local dominance. Functional Ecology, 00, 1–10. https://doi.org/10.1111/1365-2435.14439\nMatoušková, E., Štenc, J., & Janovský, Z. (2023). Innate preferences of Eristalis tenax L. (Syrphidae) for flower colour, size and symmetry are more intricate than the simple additive model. Biological Journal of the Linnean Society, 140(1), 110–119. https://doi.org/10.1093/BIOLINNEAN/BLAD035\nŠtenc, J., Janošík, L., Matoušková, E., Hadrava, J., Mikát, M., & Janovský, Z. (2023). Pollinator visitation closely tracks diurnal patterns in pollen release. American Journal of Botany, e16179. https://doi.org/10.1002/AJB2.16179\nKoupilová, K., Štenc, J., & Janovský, Z. (2022). Pollinators adjust their behavior to presence of pollinator-transmitted pathogen in plant population. Behavioral Ecology, 33(2), 319–328. https://doi.org/10.1093/BEHECO/ARAB153\nKoupilová, K., Štenc, J., & Janovský, Z. (2021). Pollen dispersal is driven by pollinator response to plant disease and plant spatial aggregation. Basic and Applied Ecology, 50, 77–86. https://doi.org/10.1016/j.baae.2020.10.0072016-2017"
+    "text": "Publikace\n\nJanovský, Z., & Štenc, J. (2023). Pollinator community and generalisation of pollinator spectra changes with plant niche width and local dominance. Functional Ecology, 00, 1–10. https://doi.org/10.1111/1365-2435.14439\nMatoušková, E., Štenc, J., & Janovský, Z. (2023). Innate preferences of Eristalis tenax L. (Syrphidae) for flower colour, size and symmetry are more intricate than the simple additive model. Biological Journal of the Linnean Society, 140(1), 110–119. https://doi.org/10.1093/BIOLINNEAN/BLAD035\nŠtenc, J., Janošík, L., Matoušková, E., Hadrava, J., Mikát, M., & Janovský, Z. (2023). Pollinator visitation closely tracks diurnal patterns in pollen release. American Journal of Botany, e16179. https://doi.org/10.1002/AJB2.16179\nKoupilová, K., Štenc, J., & Janovský, Z. (2022). Pollinators adjust their behavior to presence of pollinator-transmitted pathogen in plant population. Behavioral Ecology, 33(2), 319–328. https://doi.org/10.1093/BEHECO/ARAB153\nKoupilová, K., Štenc, J., & Janovský, Z. (2021). Pollen dispersal is driven by pollinator response to plant disease and plant spatial aggregation. Basic and Applied Ecology, 50, 77–86. https://doi.org/10.1016/j.baae.2020.10.0072016-2017\n\n{#researchtopics} ::: {#research .content-visible when-profile=“english”} # Research topics {style=“text-align: center;”}"
+  },
+  {
+    "objectID": "index.html#flovid-flower-visitor-database",
+    "href": "index.html#flovid-flower-visitor-database",
+    "title": "O mně",
+    "section": "FLOVID: FLOwer VIsitor Database",
+    "text": "FLOVID: FLOwer VIsitor Database\nWho are the pollinators of wild plants? What are the global patterns in plant-pollinator interactions? What does shape the composition of pollinator spectra?\nThese are fundamental questions that surprisingly remain largely unanswered—gaps in our knowledge that I aim to address. So far, we focused on\n\nThe majority of plants had either muscid-, hoverfly- or nitidulid-dominated or completely generalised pollinator spectra. Among such plants, higher local dominance increased the proportion of opportune muscids in pollinator spectrum, while hoverflies showed the opposite pattern. Honeybees although rather infrequent in pollinator spectra also showed a strong preference for locally dominant plant species.\nSynthesis: The composition of a plant’s pollinator spectrum is not independent of other aspects of the plant’s life history, namely niche width and the ability to dominate the community. Wider plant species niches result in more generalised pollinator spectra, supporting our hypothesis that habitat generalists are less prone to specialisation on particular pollinator groups. Conversely, the ability to dominate local plant communities influenced pollinator spectra mainly through specific responses of individual pollinator groups.\n\n\n\n\nProportion of flower visitors based on data for selection of species from Central Europe.\n\n\nIf you are interested, you can find more in following publication:\nJanovský, Z., & Štenc, J. (2023). Pollinator community and generalisation of pollinator spectra changes with plant niche width and local dominance. Functional Ecology, 00, 1–10. https://doi.org/10.1111/1365-2435.14439\n\n\n\nPainted lady (Vanessa cardui) visiting danewort (Sambucus ebulus)"
+  },
+  {
+    "objectID": "index.html#pollen-transfer",
+    "href": "index.html#pollen-transfer",
+    "title": "O mně",
+    "section": "Pollen transfer",
+    "text": "Pollen transfer\nHow is pollen transferred? How much pollen grains is successfully delivered to stigma? And how much is lost to reproduction forever?\nThese are the questions I am interested to investigate. In recent years, we focused with my collaborators on the pattern of pollen release from flowers. We found out that plants may time the release of the pollen, which then affects timing of the plant-pollinator interaction, structuring the plant-pollinator network.\nYou can read more in:\n\nŠtenc, J., Janošík, L., Matoušková, E., Hadrava, J., Mikát, M., & Janovský, Z. (2023). Pollinator visitation closely tracks diurnal patterns in pollen release. American Journal of Botany, e16179. https://doi.org/10.1002/AJB2.16179\n\n\n\n\nPollen of Devil’s bite Scabious (Succisa pratensis) on stigma"
+  },
+  {
+    "objectID": "index.html#pollinator-sharing-among-plants",
+    "href": "index.html#pollinator-sharing-among-plants",
+    "title": "O mně",
+    "section": "Pollinator sharing among plants",
+    "text": "Pollinator sharing among plants\nPlants often share multiple pollinators, but how does this affect pollen transfer? How do these plants coexist? Do they possess mechanisms to mitigate heterospecific pollen transfer?\nThis is the topic I plan to focus on in the coming years during my postdoc in Barcelona.\nCurrently, the following topics for bachelor’s and master’s thesis are available:\n\nThe mechanisms affecting heterospecific pollen transfer and the influence on long-term plant co-existence\nThe effect of floral traits on pollinator sharing between plants\n\n\n\n\nPollen of various species taken from pollinator body."
+  },
+  {
+    "objectID": "index.html#pollinator-behaviour",
+    "href": "index.html#pollinator-behaviour",
+    "title": "O mně",
+    "section": "Pollinator behaviour",
+    "text": "Pollinator behaviour\nHow does colour, size and shape of the flowers affect pollinator decision to visit flower? How does these traits affect pollinator constancy?\nTo study pollinator behaviour, we use both artificial flowers (made on 3D printer) and real flowers. We then present them to pollinators and record their decision. Currently we studied hoverfly Eristalis tenax, which is possible to breed and thus find difference between naive and experienced individuals.\nYou can read more about preferences toward different flower traits in our article:\n\nMatoušková, E., Štenc, J., & Janovský, Z. (2023). Innate preferences of Eristalis tenax L. (Syrphidae) for flower colour, size and symmetry are more intricate than the simple additive model. Biological Journal of the Linnean Society, 140(1), 110–119. https://doi.org/10.1093/BIOLINNEAN/BLAD035\n\nCurrently, the following topics for bachelor’s and master’s thesis are available:\n\nFactors affecting pollinator behaviour in relation to pollen transfer\n\n ::: ::: {.content-visible when-profile=“czech”} # Témata výzkumu {style=“text-align: center;”}"
   },
   {
     "objectID": "index.html#flovid-databáze-návštěvníků-květů",
@@ -109,6 +144,6 @@
     "href": "index.html#chování-opylovačů",
     "title": "O mně",
     "section": "Chování opylovačů",
-    "text": "Chování opylovačů\nJak barva, velikost a tvar květů ovlivňují rozhodování opylovačů o návštěvě květu? Jak tyto znaky ovlivňují věrnost opylovačů (konstanci)? Ke studiu chování opylovačů využíváme jak umělé květy (vytištěné na 3D tiskárně), tak živé rostliny. Zaměřujeme se například na pestřenku Eristalis tenax, kterou lze chovat v laboratorních podmínkách, což nám umožňuje porovnávat naivní a zkušené jedince.\nVíce v článku: Matoušková, E., Štenc, J., & Janovský, Z. (2023). Innate preferences of Eristalis tenax… Biological Journal of the Linnean Society.\nV současné době je k dispozici téma pro závěrečnou práci: Faktory ovlivňující chování opylovačů ve vztahu k přenosu pylu\n\n\n\nPestřenka (Eristalis) na umělém květu"
+    "text": "Chování opylovačů\nJak barva, velikost a tvar květů ovlivňují rozhodování opylovačů o návštěvě květu? Jak tyto znaky ovlivňují věrnost opylovačů (konstanci)? Ke studiu chování opylovačů využíváme jak umělé květy (vytištěné na 3D tiskárně), tak živé rostliny. Zaměřujeme se například na pestřenku Eristalis tenax, kterou lze chovat v laboratorních podmínkách, což nám umožňuje porovnávat naivní a zkušené jedince.\nVíce v článku: Matoušková, E., Štenc, J., & Janovský, Z. (2023). Innate preferences of Eristalis tenax… Biological Journal of the Linnean Society.\nV současné době je k dispozici téma pro závěrečnou práci: Faktory ovlivňující chování opylovačů ve vztahu k přenosu pylu\n ::: {#contanctme}"
   }
 ]

@@ -7,7 +7,7 @@ format:
 ---
 
 <meta name="google-site-verification" content="_ALkyF3YuAHp5-OSHb0UI4JC0hCsn1ce9XL8cUxTKk8" />
-:::: {#aboutme}
+ {#aboutme}
 ::: {#about .content-visible when-profile="english"}
 # About me {style="text-align: center;"}
 
@@ -33,7 +33,7 @@ Jsem ekolog se zaměřením na polinační biologii.
 :::
 
 ![](images/js3.png){fig-align="center" width="350"}
-:::: 
+ 
 
 # Curriculum vitae {#CVtag style="text-align: center;"}
 
@@ -267,7 +267,7 @@ Jsem ekolog se zaměřením na polinační biologii.
 
 -   Koupilová, K., Štenc, J., & Janovský, Z. (2021). Pollen dispersal is driven by pollinator response to plant disease and plant spatial aggregation. Basic and Applied Ecology, 50, 77--86. <https://doi.org/10.1016/j.baae.2020.10.0072016-2017>
 :::
-:::: {#researchtopics}
+ {#researchtopics}
 ::: {#research .content-visible when-profile="english"}
 # Research topics {style="text-align: center;"}
 
@@ -384,7 +384,7 @@ V současné době je k dispozici téma pro závěrečnou práci:
 
 ![Pestřenka (Eristalis) na umělém květu](images/IMG_3465c.JPG)
 :::
-:::: {#contanctme}
+ {#contanctme}
 
 ::: {#contactme .content-visible when-profile="english"}
 # Contact me {style="text-align: center;"}
@@ -414,4 +414,3 @@ V současné době je k dispozici téma pro závěrečnou práci:
 
 </div>
 
-::::
