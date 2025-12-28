@@ -36,6 +36,9 @@ V současnosti pracuji ve výzkumném ústavu [CREAF](https://www.creaf.cat/en),
 # Curriculum vitae {#CVtag style="text-align: center;"}
 
 ::: {#CVen .content-visible when-profile="english" style="text-align:  justify;"}
+## Name and date of birth {style="text-align: justify;"}
+-   Mgr. Jakub Štenc, Ph.D.
+-   Born: 4th March 1996 in Mladá Boleslav, Czechia
 
 ## Current position {style="text-align: justify;"}
 
@@ -179,15 +182,18 @@ V současnosti pracuji ve výzkumném ústavu [CREAF](https://www.creaf.cat/en),
 :::
 
 ::: {#CVcze .content-visible when-profile="czech"}
+## Jméno a datum narození {style="text-align: justify;"}
+
+-   Mgr. Jakub Štenc, Ph.D.
+
+-   Narozen: 4.března 1996 v Mladé Boleslavi
+
 ## Současné zaměstnání {style="text-align: justify;"}
 
 -   Zaměstnanec na katedře Zoologie, Přírodovědecké falukty UK, s projektem [GACR POSTDOC INDIVIDUAL FELLOWSHIP OUTGOING](https://gacr.cz/pif-out-2026/) uděleným v roce 2024, zaměřeným na sdílení opylovačů mezi rostlinnými druhy.
 
 -   V současnosti hostující na [CREAF](https://www.creaf.cat/en) ve skupině GEIP vedené [Jordi Boschem](https://orcid.org/0000-0002-8088-9457)
 
--   Mgr. Jakub Štenc, Ph.D.
-
--   Narozen: 4.března 1996 v Mladé Boleslavi
 
 ## Kontakt {style="text-align: justify;"}
 
@@ -299,8 +305,7 @@ V současnosti pracuji ve výzkumném ústavu [CREAF](https://www.creaf.cat/en),
 
 Who are the pollinators of wild plants? What are the global patterns in plant-pollinator interactions? What does shape the composition of pollinator spectra?
 
-That's principal questions which are surprisingly still largely unanswered. And I would like to answer them.
-
+These are fundamental questions that surprisingly remain largely unanswered—gaps in our knowledge that I aim to address.
 So far, we focused on
 
 -   The majority of plants had either muscid-, hoverfly- or nitidulid-dominated or completely generalised pollinator spectra. Among such plants, higher local dominance increased the proportion of opportune muscids in pollinator spectrum, while hoverflies showed the opposite pattern. Honeybees although rather infrequent in pollinator spectra also showed a strong preference for locally dominant plant species.
@@ -329,9 +334,9 @@ You can read more in:
 
 ## Pollinator sharing among plants {style="text-align: justify;"}
 
-Plants usually share multiple pollinators. But how that affects pollen transfer? How can plants co-exist? Does they somehow mitigate the heterospecific pollen transfer?
+Plants often share multiple pollinators, but how does this affect pollen transfer? How do these plants coexist? Do they possess mechanisms to mitigate heterospecific pollen transfer?
 
-This is the topic I would like to focus in following years, during my post-doc in Barcelona.
+This is the topic I plan to focus on in the coming years during my postdoc in Barcelona.
 
 Currently, the following topics for bachelor's and master's thesis are available:
 
