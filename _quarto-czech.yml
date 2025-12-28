@@ -7,7 +7,7 @@ website:
     logo: "images/pyl.png"
     logo-href: index.html
     left:
-      - href: index.qmd#ome 
+      - href: index.qmd#aboutme 
         text: O mě
       - href: index.qmd#CVcze
         text: Životopis

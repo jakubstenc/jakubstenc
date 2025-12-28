@@ -11,9 +11,9 @@ website:
     logo: "images/pyl.png"
     logo-href: index.html
     left:
-      - href: index.qmd#about
+      - href: index.qmd#aboutme
         text: About me 
-      - href: index.qmd##CVen
+      - href: index.qmd#CVen
         text: CV
       - href: index.qmd#research
         text: Research

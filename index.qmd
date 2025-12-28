@@ -7,7 +7,7 @@ format:
 ---
 
 <meta name="google-site-verification" content="_ALkyF3YuAHp5-OSHb0UI4JC0hCsn1ce9XL8cUxTKk8" />
-
+:::: {#aboutme}
 ::: {#about .content-visible when-profile="english"}
 # About me {style="text-align: center;"}
 
@@ -31,7 +31,7 @@ V současnosti pracuji ve výzkumném ústavu [CREAF](https://www.creaf.cat/en),
 :::
 
 ![](images/js3.png){fig-align="center" width="350"}
-
+:::: 
 # CV {#CV}
 
 ::: {#CVen .content-visible when-profile="english"}
