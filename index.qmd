@@ -7,7 +7,7 @@ format:
 ---
 
 <meta name="google-site-verification" content="_ALkyF3YuAHp5-OSHb0UI4JC0hCsn1ce9XL8cUxTKk8" />
- {#aboutme}
+:::: {#aboutme}
 ::: {#about .content-visible when-profile="english"}
 # About me {style="text-align: center;"}
 
@@ -33,7 +33,7 @@ Jsem ekolog se zaměřením na polinační biologii.
 :::
 
 ![](images/js3.png){fig-align="center" width="350"}
- 
+:::: 
 
 # Curriculum vitae {#CVtag style="text-align: center;"}
 
@@ -267,47 +267,53 @@ Jsem ekolog se zaměřením na polinační biologii.
 
 -   Koupilová, K., Štenc, J., & Janovský, Z. (2021). Pollen dispersal is driven by pollinator response to plant disease and plant spatial aggregation. Basic and Applied Ecology, 50, 77--86. <https://doi.org/10.1016/j.baae.2020.10.0072016-2017>
 :::
- {#researchtopics}
-::: {#research .content-visible when-profile="english"}
+:::: {#researchtopics}
+::: {.content-visible when-profile="english"}
 # Research topics {style="text-align: center;"}
 
 ## FLOVID: FLOwer VIsitor Database {style="text-align: justify;"}
 
-Who are the pollinators of wild plants? What are the global patterns in plant-pollinator interactions? What does shape the composition of pollinator spectra?
-
+Who are the pollinators of wild plants?
+What are the global patterns in plant-pollinator interactions? What does shape the composition of pollinator spectra?
 These are fundamental questions that surprisingly remain largely unanswered—gaps in our knowledge that I aim to address.
 So far, we focused on
 
--   The majority of plants had either muscid-, hoverfly- or nitidulid-dominated or completely generalised pollinator spectra. Among such plants, higher local dominance increased the proportion of opportune muscids in pollinator spectrum, while hoverflies showed the opposite pattern. Honeybees although rather infrequent in pollinator spectra also showed a strong preference for locally dominant plant species.
-
--   *Synthesis*: The composition of a plant's pollinator spectrum is not independent of other aspects of the plant's life history, namely niche width and the ability to dominate the community. Wider plant species niches result in more generalised pollinator spectra, supporting our hypothesis that habitat generalists are less prone to specialisation on particular pollinator groups. Conversely, the ability to dominate local plant communities influenced pollinator spectra mainly through specific responses of individual pollinator groups.
+-   The majority of plants had either muscid-, hoverfly- or nitidulid-dominated or completely generalised pollinator spectra.
+-   Among such plants, higher local dominance increased the proportion of opportune muscids in pollinator spectrum, while hoverflies showed the opposite pattern.
+-   Honeybees although rather infrequent in pollinator spectra also showed a strong preference for locally dominant plant species.
+-   *Synthesis*: The composition of a plant's pollinator spectrum is not independent of other aspects of the plant's life history, namely niche width and the ability to dominate the community.
+-   Wider plant species niches result in more generalised pollinator spectra, supporting our hypothesis that habitat generalists are less prone to specialisation on particular pollinator groups.
+-   Conversely, the ability to dominate local plant communities influenced pollinator spectra mainly through specific responses of individual pollinator groups.
 
 ![Proportion of flower visitors based on data for selection of species from Central Europe.](images/image-8.png)
 
 If you are interested, you can find more in following publication:
 
-Janovský, Z., & Štenc, J. (2023). Pollinator community and generalisation of pollinator spectra changes with plant niche width and local dominance. Functional Ecology, 00, 1--10. <https://doi.org/10.1111/1365-2435.14439>
+Janovský, Z., & Štenc, J. (2023).
+Pollinator community and generalisation of pollinator spectra changes with plant niche width and local dominance. Functional Ecology, 00, 1--10.
+<https://doi.org/10.1111/1365-2435.14439>
 
 ![Painted lady (Vanessa cardui) visiting danewort (Sambucus ebulus)](images/Vanessa_cardui_(babocka_bodlakova)_na_bezu_cehbdi2.jpg)
 
 ## Pollen transfer {style="text-align: justify;"}
 
-How is pollen transferred? How much pollen grains is successfully delivered to stigma? And how much is lost to reproduction forever?
-
-These are the questions I am interested to investigate. In recent years, we focused with my collaborators on the pattern of pollen release from flowers. We found out that plants may time the release of the pollen, which then affects timing of the plant-pollinator interaction, structuring the plant-pollinator network.
-
+How is pollen transferred?
+How much pollen grains is successfully delivered to stigma? And how much is lost to reproduction forever?
+These are the questions I am interested to investigate. In recent years, we focused with my collaborators on the pattern of pollen release from flowers.
+We found out that plants may time the release of the pollen, which then affects timing of the plant-pollinator interaction, structuring the plant-pollinator network.
 You can read more in:
 
--   Štenc, J., Janošík, L., Matoušková, E., Hadrava, J., Mikát, M., & Janovský, Z. (2023). Pollinator visitation closely tracks diurnal patterns in pollen release. American Journal of Botany, e16179. <https://doi.org/10.1002/AJB2.16179>
+-   Štenc, J., Janošík, L., Matoušková, E., Hadrava, J., Mikát, M., & Janovský, Z. (2023).
+Pollinator visitation closely tracks diurnal patterns in pollen release. American Journal of Botany, e16179.
+<https://doi.org/10.1002/AJB2.16179>
 
 ![Pollen of Devil's bite Scabious (Succisa pratensis) on stigma](images/pyl_na_blizne3.jpg)
 
 ## Pollinator sharing among plants {style="text-align: justify;"}
 
-Plants often share multiple pollinators, but how does this affect pollen transfer? How do these plants coexist? Do they possess mechanisms to mitigate heterospecific pollen transfer?
-
+Plants often share multiple pollinators, but how does this affect pollen transfer?
+How do these plants coexist? Do they possess mechanisms to mitigate heterospecific pollen transfer?
 This is the topic I plan to focus on in the coming years during my postdoc in Barcelona.
-
 Currently, the following topics for bachelor's and master's thesis are available:
 
 -   [The mechanisms affecting heterospecific pollen transfer and the influence on long-term plant co-existence](https://is.cuni.cz/studium/dipl_st/index.php?id=&tid=&do=main&doo=detail&did=279151)
@@ -318,13 +324,17 @@ Currently, the following topics for bachelor's and master's thesis are available
 
 ## Pollinator behaviour {style="text-align: justify;"}
 
-How does colour, size and shape of the flowers affect pollinator decision to visit flower? How does these traits affect pollinator constancy?
+How does colour, size and shape of the flowers affect pollinator decision to visit flower?
+How does these traits affect pollinator constancy?
 
-To study pollinator behaviour, we use both artificial flowers (made on 3D printer) and real flowers. We then present them to pollinators and record their decision. Currently we studied hoverfly Eristalis tenax, which is possible to breed and thus find difference between naive and experienced individuals.
-
+To study pollinator behaviour, we use both artificial flowers (made on 3D printer) and real flowers.
+We then present them to pollinators and record their decision.
+Currently we studied hoverfly Eristalis tenax, which is possible to breed and thus find difference between naive and experienced individuals.
 You can read more about preferences toward different flower traits in our article:
 
--   Matoušková, E., Štenc, J., & Janovský, Z. (2023). Innate preferences of Eristalis tenax L. (Syrphidae) for flower colour, size and symmetry are more intricate than the simple additive model. Biological Journal of the Linnean Society, 140(1), 110--119. <https://doi.org/10.1093/BIOLINNEAN/BLAD035>
+-   Matoušková, E., Štenc, J., & Janovský, Z. (2023).
+Innate preferences of Eristalis tenax L. (Syrphidae) for flower colour, size and symmetry are more intricate than the simple additive model.
+Biological Journal of the Linnean Society, 140(1), 110--119. <https://doi.org/10.1093/BIOLINNEAN/BLAD035>
 
 Currently, the following topics for bachelor's and master's thesis are available:
 
@@ -332,6 +342,7 @@ Currently, the following topics for bachelor's and master's thesis are available
 
 ![Eristalis on artificial flower](images/IMG_3465c.JPG)
 :::
+
 ::: {.content-visible when-profile="czech"}
 # Témata výzkumu {style="text-align: center;"}
 
@@ -384,33 +395,34 @@ V současné době je k dispozici téma pro závěrečnou práci:
 
 ![Pestřenka (Eristalis) na umělém květu](images/IMG_3465c.JPG)
 :::
- {#contanctme}
+::::
+:::: {#contanctme}
 
-::: {#contactme .content-visible when-profile="english"}
+::: {.content-visible when-profile="english"}
 # Contact me {style="text-align: center;"}
 :::
 
-::: {#kontaktujme .content-visible when-profile="czech"}
+::: {.content-visible when-profile="czech"}
 # Kontaktuj mě {style="text-align: center;"}
 :::
 
-<div style="text-align: center; font-size: 2.5em; margin-top: 20px; margin-bottom: 40px;">
+<div style="display: flex; justify-content: center; gap: 30px; font-size: 2.5em; margin-top: 20px; margin-bottom: 40px;">
   
-  <a href="mailto:jakubstenc@gmail.com" aria-label="Email" style="margin: 0 15px; color: inherit; text-decoration: none;">
+  <a href="mailto:jakubstenc@gmail.com" aria-label="Email" style="color: inherit; text-decoration: none;">
     <i class="bi bi-envelope-at-fill"></i>
   </a>
 
-  <a href="https://wa.me/420774553734" target="_blank" aria-label="WhatsApp" style="margin: 0 15px; color: inherit; text-decoration: none;">
+  <a href="https://wa.me/420774553734" target="_blank" aria-label="WhatsApp" style="color: inherit; text-decoration: none;">
     <i class="bi bi-whatsapp"></i>
   </a>
 
-  <a href="https://discord.com/users/kuba07156" target="_blank" aria-label="Discord" style="margin: 0 15px; color: inherit; text-decoration: none;">
+  <a href="https://discord.com/users/kuba07156" target="_blank" aria-label="Discord" style="color: inherit; text-decoration: none;">
     <i class="bi bi-discord"></i>
   </a>
 
-  <a href="https://github.com/jakubstenc" target="_blank" aria-label="GitHub" style="margin: 0 15px; color: inherit; text-decoration: none;">
+  <a href="https://github.com/jakubstenc" target="_blank" aria-label="GitHub" style="color: inherit; text-decoration: none;">
     <i class="bi bi-github"></i>
   </a>
 
 </div>
-
+::::
