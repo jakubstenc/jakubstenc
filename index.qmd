@@ -43,13 +43,13 @@ V současnosti pracuji ve výzkumném ústavu [CREAF](https://www.creaf.cat/en),
 
 -   Currently hosted postdoc at [CREAF](https://www.creaf.cat/en) within the GEIP group of [Jordi Bosch](https://orcid.org/0000-0002-8088-9457)
 
-## Contact
+## Contact {style="text-align: justify;"}
 
 -   jakubstenc at gmail.com
 
 -   +420 774 553 734
 
-## Education
+## Education {style="text-align: justify;"}
 
 -   2015-2018 - Bachelor's degree in biology, Faculty of Science, Charles university. Thesis: Pollination efficiency as a function of plant spatial aggregation and pollinator functional traits. Graduated.
 
@@ -57,7 +57,7 @@ V současnosti pracuji ve výzkumném ústavu [CREAF](https://www.creaf.cat/en),
 
 -   2020-2024- Ph.D. in Botany, Faculty of Science, Charles university. Thesis: Factors influencing pollen carryover effectiveness. Graduated cum laude.
 
-## Work
+## Work {style="text-align: justify;"}
 
 -   2019 -- 2021 - Part-time employment as a technician at the Department of Botany, mainly managing the lab and reconstruction related activity, 0.1 FTE
 
@@ -65,7 +65,7 @@ V současnosti pracuji ve výzkumném ústavu [CREAF](https://www.creaf.cat/en),
 
 -   2024 -- 2025 - Employment on [Institute of Botany of the Czech Academy of](https://www.ibot.cas.cz/en/) [Sciences](https://www.ibot.cas.cz/en/)
 
-## Grant support
+## Grant support {style="text-align: justify;"}
 
 -   2018-2021 - Co-investigator of grant project from Grant Agency of Charles University: Plant population dynamics under anther smut epidemy and influence of pollinators on the rate of disease spread (1193619)
 
@@ -75,7 +75,7 @@ V současnosti pracuji ve výzkumném ústavu [CREAF](https://www.creaf.cat/en),
 
 -   2025-2028 - Main investigator of grant project granted by Grant Agency of Czech Republic [POSTDOC INDIVIDUAL FELLOWSHIP OUTGOING](https://gacr.cz/pif-out-2026/): Long-term spatiotemporal dynamics in a plant-pollinator community and consequences for pollen transfer in a changing world (25-17193O)
 
-## Educational stays abroad
+## Educational stays abroad {style="text-align: justify;"}
 
 -   2019 - 6-months Erasmus study abroad at University of Tartu (Estonia)
 
@@ -83,7 +83,7 @@ V současnosti pracuji ve výzkumném ústavu [CREAF](https://www.creaf.cat/en),
 
 -   2023 - 1-month internship at University of Granada under supervision of Roccio Peréz Barrales
 
-## Conferences
+## Conferences {style="text-align: justify;"}
 
 -   2018 - SCAPE, The Scandinavian Association for Pollination Ecologists, Blessington, IRL (poster)
 
@@ -103,7 +103,7 @@ V současnosti pracuji ve výzkumném ústavu [CREAF](https://www.creaf.cat/en),
 
 -   2024 - EcoFlor conference, Coimbra, POR (oral presentation)
 
-## Teaching experience
+## Teaching experience {style="text-align: justify;"}
 
 -   R for life, Charles University in Prague, Czechia (2021, 2022; under leading of Martin Weiser and Tomáš Herben)
 
@@ -113,7 +113,7 @@ V současnosti pracuji ve výzkumném ústavu [CREAF](https://www.creaf.cat/en),
 
 -   Field course on Phytocenological and Plant-population Methods, Charles University in Prague, Czechia (2021; under leading of Tomáš Koubek)
 
-## Supervised students
+## Supervised students {style="text-align: justify;"}
 
 -   Alice Haveldová (Bachelors, supervision, finished)
 
@@ -135,7 +135,7 @@ V současnosti pracuji ve výzkumném ústavu [CREAF](https://www.creaf.cat/en),
 
 -   Lucie Holzbachová (Masters, co-supervision, ongoing)
 
-## Field experience
+## Field experience {style="text-align: justify;"}
 
 -   2016-2017 - field work with Insect communities' group (main researcher Robert Tropek)
 
@@ -145,7 +145,7 @@ V současnosti pracuji ve výzkumném ústavu [CREAF](https://www.creaf.cat/en),
 
 -   2023 - 4 months of fieldwork in Andes, Ecuador
 
-## Languages and skills
+## Languages and skills {style="text-align: justify;"}
 
 -   Czech (native)
 
@@ -155,7 +155,7 @@ V současnosti pracuji ve výzkumném ústavu [CREAF](https://www.creaf.cat/en),
 
 -   driving license A1 and B
 
-## Science popularization
+## Science popularization {style="text-align: justify;"}
 
 -   2018 - 2020: guide in Botanical Garden of Faculty of Science, Charles University
 
@@ -165,7 +165,7 @@ V současnosti pracuji ve výzkumném ústavu [CREAF](https://www.creaf.cat/en),
 
 -   2020 - Co-author of popular science article about anther smuts (Živa)
 
-## Publications
+## Publications {style="text-align: justify;"}
 
 -   Janovský, Z., & Štenc, J. (2023). Pollinator community and generalisation of pollinator spectra changes with plant niche width and local dominance. Functional Ecology, 00, 1--10. <https://doi.org/10.1111/1365-2435.14439>
 
@@ -183,7 +183,7 @@ V současnosti pracuji ve výzkumném ústavu [CREAF](https://www.creaf.cat/en),
 
 -   Narozen: 4.března 1996 v Mladé Boleslavi
 
-## Kontakt
+## Kontakt {style="text-align: justify;"}
 
 -   Trvalá adresa: Trnová 17, Katusice, 294 25, Czech Republic
 
@@ -195,7 +195,7 @@ V současnosti pracuji ve výzkumném ústavu [CREAF](https://www.creaf.cat/en),
 
 -   Research Gate: https://www.researchgate.net/profile/Jakub_Stenc
 
-## Zaměstnání
+## Zaměstnání {style="text-align: justify;"}
 
 -   [Karlova Univerzita, Praha, Katedra botaniky](https://natur.cuni.cz/en/biology/departments-and-work-places/department-of-botany) (2019 – 2021), Technik v laboratoři 10% úvazek
 
@@ -203,7 +203,7 @@ V současnosti pracuji ve výzkumném ústavu [CREAF](https://www.creaf.cat/en),
 
 -   [Akademie věd, Botanický ústav, Průhonice](https://www.ibot.cas.cz/) (2024 - nyní), postdoc, 50% úvazek
 
-## Vzdělání
+## Vzdělání {style="text-align: justify;"}
 
 -   Ph.D. studium (1.10.2020 - 25.6.2024) Univerzita Karlova, Přírodovědecká fakulta, studijní program: Botanika, Ph.D. téma: Processes Driving Pollen Transfer in Generalised Pollination Systems, školitel: RNDr. Zdeněk Janovský Ph.D., studium dokončeno “cum laude”
 
@@ -211,7 +211,7 @@ V současnosti pracuji ve výzkumném ústavu [CREAF](https://www.creaf.cat/en),
 
 -   Bakalářské studium (1.10.2015 – 15.6.2018), Univerzita Karlova, Přírodovědecká fakulta, studijní program: Biologie, bakalářská práce: Přenos pylu jako funkce prostorového uspořádání rostlin a vlastností opylovačů, školitel: RNDr. Zdeněk Janovský Ph.D.
 
-## Mezinárodní zkušenost
+## Mezinárodní zkušenost {style="text-align: justify;"}
 
 -   University of Tartu, Tartu, Estonia. Erasmus studijní pobyt. 2019 (5 měsíců)
 
@@ -219,11 +219,11 @@ V současnosti pracuji ve výzkumném ústavu [CREAF](https://www.creaf.cat/en),
 
 -   Katedra botaniky University of Granada, Granada, Španělskostáž pod vedením Roccio Peréz Barrales (1 měsíc)
 
-## Popularizace
+## Popularizace {style="text-align: justify;"}
 
 -   Spoluautor výstavy “Intimní život rostlin”
 
-## Granty
+## Granty {style="text-align: justify;"}
 
 -   2018-2021 spoluřešitel projektu Grantové Agentury Univerzity Karlovy (GAUK): Plant population dynamics under anther smut epidemy and influence of pollinators on the rate of disease spread (1193619)
 
@@ -231,7 +231,7 @@ V současnosti pracuji ve výzkumném ústavu [CREAF](https://www.creaf.cat/en),
 
 -   2021-2023 – hlavní řešitel projektu Grantové Agentury Univerzity Karlovy STAR: Do the plant pollen presentation schedules fit pollinator diurnal activity? A test of the Pollen Presentation Theory (0016935)
 
-## Terénní zkušenost
+## Terénní zkušenost {style="text-align: justify;"}
 
 -   2016-2017 – sběr dat o polinačních sítích v terénu pod vedením Roberta Tropka
 
@@ -241,7 +241,7 @@ V současnosti pracuji ve výzkumném ústavu [CREAF](https://www.creaf.cat/en),
 
 -   2023 – 4 měsíce sběru dat v Ekvádoru pod vedením Petra Sklenáře v rámci výzkumu polinační biologie ve vysokohorském prostředí
 
-## Jazykové a další dovednosti
+## Jazykové a další dovednosti {style="text-align: justify;"}
 
 -   Český jazyk (rodilý mluvčí)
 
@@ -251,7 +251,7 @@ V současnosti pracuji ve výzkumném ústavu [CREAF](https://www.creaf.cat/en),
 
 -   Řidičký průkaz A1 a B
 
-## Školení studenti
+## Školení studenti {style="text-align: justify;"}
 
 -   Alice Haveldová (bakalářská práce, školitel, [obhájena](https://dspace.cuni.cz/handle/20.500.11956/126388))
 
@@ -273,7 +273,7 @@ V současnosti pracuji ve výzkumném ústavu [CREAF](https://www.creaf.cat/en),
 
 -   Lucie Holzbachová (magisterská práce, konzultant, probíhající)
 
-## Publikace
+## Publikace {style="text-align: justify;"}
 
 -   Janovský, Z., & Štenc, J. (2023). Pollinator community and generalisation of pollinator spectra changes with plant niche width and local dominance. Functional Ecology, 00, 1--10. <https://doi.org/10.1111/1365-2435.14439>
 
@@ -309,7 +309,7 @@ Janovský, Z., & Štenc, J. (2023). Pollinator community and generalisation of p
 
 ![Painted lady (Vanessa cardui) visiting danewort (Sambucus ebulus)](images/Vanessa_cardui_(babocka_bodlakova)_na_bezu_cehbdi2.jpg)
 
-## Pollen transfer
+## Pollen transfer {style="text-align: justify;"}
 
 How is pollen transferred? How much pollen grains is successfully delivered to stigma? And how much is lost to reproduction forever?
 
@@ -321,7 +321,7 @@ You can read more in:
 
 ![Pollen of Devil's bite Scabious (Succisa pratensis) on stigma](images/pyl_na_blizne3.jpg)
 
-## Pollinator sharing among plants
+## Pollinator sharing among plants {style="text-align: justify;"}
 
 Plants usually share multiple pollinators. But how that affects pollen transfer? How can plants co-exist? Does they somehow mitigate the heterospecific pollen transfer?
 
@@ -335,7 +335,7 @@ Currently, the following topics for bachelor's and master's thesis are available
 
 ![Pollen of various species taken from pollinator body.](images/FS_VM_pell1_048.jpg)
 
-## Pollinator behaviour
+## Pollinator behaviour {style="text-align: justify;"}
 
 How does colour, size and shape of the flowers affect pollinator decision to visit flower? How does these traits affect pollinator constancy?
 
@@ -359,17 +359,17 @@ Currently, the following topics for bachelor's and master's thesis are available
 
 ![Painted lady (Vanessa cardui) visiting danewort (Sambucus ebulus)](images/Vanessa_cardui_(babocka_bodlakova)_na_bezu_cehbdi2.jpg)
 
-## Přenos pylu
+## Přenos pylu {style="text-align: justify;"}
 
 V rámci tohoto tématu je možné zpracovávat bakalářskou a diplomovou práci pod mým vedením. Vypsaná témata najdete na této stránce.
 
 ![Pollen of Devil's bite Scabious (Succisa pratensis) on stigma](images/pyl_na_blizne3.jpg)
 
-## Sdílení opylovačů rostlinami
+## Sdílení opylovačů rostlinami {style="text-align: justify;"}
 
 V rámci tohoto tématu je možné zpracovávat bakalářskou a diplomovou práci pod mým vedením.
 
-## Chování opylovačů
+## Chování opylovačů {style="text-align: justify;"}
 
 V rámci tohoto tématu je možné zpracovávat bakalářskou a diplomovou práci pod mým vedením.
 :::
