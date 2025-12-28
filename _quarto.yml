@@ -1,5 +1,10 @@
 project:
   type: website
+  render:
+    - "*.qmd"
+    - "!archive/"
+  post-render:
+    - cp googleb16326ba55692535.html docs/googleb16326ba55692535.html  
 profile:
   default: english
   group: [english, czech]
