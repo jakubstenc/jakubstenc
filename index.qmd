@@ -9,15 +9,15 @@ format:
 <meta name="google-site-verification" content="_ALkyF3YuAHp5-OSHb0UI4JC0hCsn1ce9XL8cUxTKk8" />
 
 ::: {#about .content-visible when-profile="english"}
-# About me  {style="text-align: center;"}
+# About me {style="text-align: center;"}
 
 Hi, I am Jakub Štenc
 
-I am freshly finished PhD, currently looking for postdoc. I am interested in pollination, pollen transfer, floral ecology, pollinator behaviour and plant-pollinator interactions on the community level.
+I am a researcher focusing on ecology. I am interested in **pollination**, pollen transfer, floral ecology, pollinator behaviour and plant-pollinator interactions on the community level.
 
-I am currently based at CREAF, Autonomous University of Barcelona, Spain, working on pollinator sharing among plants, within project funded by [GACR POSTDOC INDIVIDUAL FELLOWSHIP OUTGOING](https://gacr.cz/pif-out-2026/).
+Welcome on my websites where you can find some informations about me and my work.
 
-![](images/js3.jpg){fig-align="center" width="275"}
+I am currently based at [CREAF](https://www.creaf.cat/en), [Autonomous University of Barcelona](https://www.uab.cat/web/universitat-autonoma-de-barcelona-1345467954774.html), Spain, working on pollinator sharing among plants, within project funded by [GACR POSTDOC INDIVIDUAL FELLOWSHIP OUTGOING](https://gacr.cz/pif-out-2026/).
 :::
 
 ::: {#ome .content-visible when-profile="czech"}
@@ -25,12 +25,14 @@ I am currently based at CREAF, Autonomous University of Barcelona, Spain, workin
 
 Zdravím, jmenuji se Jakub Štenc
 
-v roce 2024 jsem dokončil své doktorské studium a momentálně hledám postdoktorandskou pozici. Zabývám se opylováním, přenosem pylu, květní ekologií, chováním opylovačů a ve výsledku mě zajímá jak spolu dokáží rostliny a opylovači existovat v rámci společenstva.
+Jsem veděc se zaměřením na ekologii. Zabývám se **opylováním**, přenosem pylu, květní ekologií, chováním opylovačů a ve výsledku mě zajímá jak spolu dokáží rostliny a opylovači existovat v rámci společenstva.
 
-![](images/js3.jpg){fig-align="center" width="275"}
+V současnosti pracuji ve výzkumném ústavu [CREAF](https://www.creaf.cat/en), [Autonomní Universita v Barceloně](https://www.uab.cat/web/universitat-autonoma-de-barcelona-1345467954774.html), Španělsko, kde pracuji na projektu o sdílení opylovačů mezi opylovačiv rámci programu [GACR POSTDOC INDIVIDUAL FELLOWSHIP OUTGOING](https://gacr.cz/pif-out-2026/).
 :::
 
-# CV  {#CV}
+![](images/js3.png){fig-align="center" width="350"}
+
+# CV {#CV}
 
 ::: {#CVen .content-visible when-profile="english"}
 ## Current position
@@ -49,9 +51,9 @@ v roce 2024 jsem dokončil své doktorské studium a momentálně hledám postdo
 
 -   2015-2018 - Bachelor's degree in biology, Faculty of Science, Charles university. Thesis: Pollination efficiency as a function of plant spatial aggregation and pollinator functional traits. Graduated.
 
--   2018-2020 - Master's degree in Botany, specialization Geobotany, Faculty of Science, Charles university. Thesis: Changes in pollinator behaviour under different plant spatial aggregation. Graduated with distinction.
+-   2018-2020 - Master's degree in Botany, specialization Geobotany, Faculty of Science, Charles university. Thesis: Changes in pollinator behaviour under different plant spatial aggregation. Graduated with distinctions.
 
--   2020-2024- Ph.D. in Botany, Faculty of Science, Charles university. Thesis: Factors influencing pollen carryover effectiveness. Graduated cuma sum laude.
+-   2020-2024- Ph.D. in Botany, Faculty of Science, Charles university. Thesis: Factors influencing pollen carryover effectiveness. Graduated cum laude.
 
 ## Work
 
@@ -125,11 +127,9 @@ v roce 2024 jsem dokončil své doktorské studium a momentálně hledám postdo
 
 -   Petr Švanda (Bachelors and Masters, supervision, ongoing)
 
--   Eva Matoušková (PhD, supervision, ongoning)
+-   Eva Matoušková (PhD, supervision, ongoing)
 
--   Petr Švanda (Bachelors and Masters, supervision, ongoing)
-
--   Zuzana Matějková (Bachelor and Masters, co-supervision, never finished, never forgoten)
+-   Zuzana Matějková (Bachelor and Masters, co-supervision, never finished, never forgotten)
 
 -   Lucie Holzbachová (Masters, co-supervision, ongoing)
 
@@ -261,6 +261,14 @@ v roce 2024 jsem dokončil své doktorské studium a momentálně hledám postdo
 
 -   Zuzana Matějková (bakalářská a magisterská práce, konzultant, nikdy nedokončená, nikdy nezapomenutá)
 
+-   Klára Doksanská (bakalářská, školitel, probíhající)
+
+-   Kateřina Příbramská (bakalářská, školitel, probíhající)
+
+-   Aneta Hynčicová (bakalářská, školitel, probíhající)
+
+-   Eva Matoušková (PhD, školitel, probíhající)
+
 -   Lucie Holzbachová (magisterská práce, konzultant, probíhající)
 
 ## Publikace
@@ -291,7 +299,7 @@ So far, we focused on
 
 -   *Synthesis*: The composition of a plant's pollinator spectrum is not independent of other aspects of the plant's life history, namely niche width and the ability to dominate the community. Wider plant species niches result in more generalised pollinator spectra, supporting our hypothesis that habitat generalists are less prone to specialisation on particular pollinator groups. Conversely, the ability to dominate local plant communities influenced pollinator spectra mainly through specific responses of individual pollinator groups.
 
-![Pollen](images/image-8.png)
+![Proportion of flower visitors based on data for selection of species from Central Europe.](images/image-8.png)
 
 If you are interested, you can find more in following publication:
 
@@ -323,7 +331,7 @@ Currently, the following topics for bachelor's and master's thesis are available
 
 -   [The effect of floral traits on pollinator sharing between plants](https://is.cuni.cz/studium/dipl_st/index.php?id=&tid=&do=main&doo=detail&did=279151)
 
-![Polllen of various species taken from pollinator body.](images/FS_VM_pell1_048.jpg)
+![Pollen of various species taken from pollinator body.](images/FS_VM_pell1_048.jpg)
 
 ## Pollinator behaviour
 
@@ -362,4 +370,12 @@ V rámci tohoto tématu je možné zpracovávat bakalářskou a diplomovou prác
 ## Chování opylovačů
 
 V rámci tohoto tématu je možné zpracovávat bakalářskou a diplomovou práci pod mým vedením.
+:::
+
+::: {#contactme .content-visible when-profile="english"}
+# Contact me
+:::
+
+::: {#kontaktujme .content-visible when-profile="czech"}
+# Kontaktuj mě!
 :::

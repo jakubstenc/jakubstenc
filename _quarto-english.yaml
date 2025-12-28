@@ -9,16 +9,18 @@ website:
   page-navigation: true  
   navbar:
     logo: "images/pyl.png"
-    href: about.qmd    
+    logo-href: index.html
     left:
-      - href: about.qmd#about
+      - href: index.qmd#about
         text: About me 
-      - href: about.qmd#CVen
+      - href: index.qmd##CVen
         text: CV
-      - href: about.qmd#research
+      - href: index.qmd#research
         text: Research
-      - href: https://pollination-ecology-group.github.io/Pollination_ecology_group/Pollination_Ecology_Group.html#about
+      - href: https://pollination-ecology-group.github.io/Pollination_ecology_group/Pollination_Ecology_Group.html#index
         text: Pollination Ecology Group
+      - href: index.qmd#contactme
+        text: Contact me
       - href: news.qmd
         text: News
     right:
@@ -29,8 +31,8 @@ website:
         href: https://scholar.google.com/citations?user=xxxxx=en
       - text: "{{< ai orcid size=2x >}}"
         aria-label: ORCID
-        href:  https://orcid.org/0000-0003-0678-8452
-      - href: /cz/about.html
+        href: https://orcid.org/0000-0003-0678-8452
+      - href: /cz/index.html
         text: Česky
   page-footer: 
     left: "Copyright 2024, Jakub Štenc" 
@@ -39,7 +41,7 @@ format:
   html:
     theme: sandstone
     toc: true
-    toc-depth: 3
+    smooth-scroll: true
 extensions:
   iconify:
     set: "octicon"

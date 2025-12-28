@@ -5,16 +5,18 @@ project:
 website:
   navbar:
     logo: "images/pyl.png"
-    href: about.qmd    
+    logo-href: index.html
     left:
-      - href: about.qmd#ome 
+      - href: index.qmd#ome 
         text: O mě
-      - href: about.qmd##CVcze 
+      - href: index.qmd#CVcze
         text: Životopis
-      - href: research.qmd
+      - href: index.qmd
         text: Výzkumná témata
-      - href: https://pollination-ecology-group.github.io/Pollination_ecology_group/Pollination_Ecology_Group.html#about
+      - href: https://pollination-ecology-group.github.io/Pollination_ecology_group/Pollination_Ecology_Group.html#index
         text: Pollination Ecology Group
+      - href: index.qmd#kontaktujme
+        text: Kontaktujte mě  
       - href: news.qmd
         text: Novinky 
     right:
@@ -36,4 +38,15 @@ format:
   html:
     theme: sandstone
     toc: true
-    toc-depth: 3
+    smooth-scroll: true
+extensions:
+  iconify:
+    set: "octicon"
+    size: "Huge"
+    width: "1em"
+    height: "1em"
+    flip: "horizontal"
+    rotate: "90deg"
+    inline: true
+    mode: "svg"
+    style: "color: #b22222;"
