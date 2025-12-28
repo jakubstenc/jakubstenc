@@ -21,13 +21,15 @@ I am currently based at [CREAF](https://www.creaf.cat/en), [Autonomous Universit
 :::
 
 ::: {#ome .content-visible when-profile="czech"}
-# O mě {style="text-align: center;"}
+# O mně {style="text-align: center;"}
 
-Zdravím, jmenuji se Jakub Štenc
+Zdravím, jmenuji se Jakub Štenc.
 
-Jsem veděc se zaměřením na ekologii. Zabývám se **opylováním**, přenosem pylu, květní ekologií, chováním opylovačů a ve výsledku mě zajímá jak spolu dokáží rostliny a opylovači existovat v rámci společenstva.
+Jsem ekolog se zaměřením na polinační biologii.
+[cite_start]Zabývám se **opylováním**, přenosem pylu, květní ekologií, chováním opylovačů a ve výsledku mě zajímá, jak spolu dokáží rostliny a opylovači existovat v rámci společenstva[cite: 6].
 
-V současnosti pracuji ve výzkumném ústavu [CREAF](https://www.creaf.cat/en), [Autonomní Universita v Barceloně](https://www.uab.cat/web/universitat-autonoma-de-barcelona-1345467954774.html), Španělsko, kde pracuji na projektu o sdílení opylovačů mezi opylovačiv rámci programu [GACR POSTDOC INDIVIDUAL FELLOWSHIP OUTGOING](https://gacr.cz/pif-out-2026/).
+[cite_start]V současnosti působím ve výzkumném ústavu [CREAF](https://www.creaf.cat/en) při [Autonomní Univerzitě v Barceloně](https://www.uab.cat/web/universitat-autonoma-de-barcelona-1345467954774.html) ve Španělsku[cite: 7]. Zde pracuji na projektu zaměřeném na sdílení opylovačů mezi rostlinami v rámci grantu [GACR POSTDOC INDIVIDUAL FELLOWSHIP OUTGOING](https://gacr.cz/pif-out-2026/).
+
 :::
 
 ![](images/js3.png){fig-align="center" width="350"}
@@ -84,7 +86,7 @@ V současnosti pracuji ve výzkumném ústavu [CREAF](https://www.creaf.cat/en),
 
 -   2022 - 2-months internship at Rey Juan Carlos University under supervision of Marcos Méndez
 
--   2023 - 1-month internship at University of Granada under supervision of Roccio Peréz Barrales
+-   2023 - 1-month internship at University of Granada under supervision of Rocío Peréz Barrales
 
 ## Conferences {style="text-align: justify;"}
 
@@ -185,105 +187,73 @@ V současnosti pracuji ve výzkumném ústavu [CREAF](https://www.creaf.cat/en),
 ## Jméno a datum narození {style="text-align: justify;"}
 
 -   Mgr. Jakub Štenc, Ph.D.
-
--   Narozen: 4.března 1996 v Mladé Boleslavi
+-   [cite_start]Narozen: 4. března 1996 v Mladé Boleslavi [cite: 34]
 
 ## Současné zaměstnání {style="text-align: justify;"}
 
--   Zaměstnanec na katedře Zoologie, Přírodovědecké falukty UK, s projektem [GACR POSTDOC INDIVIDUAL FELLOWSHIP OUTGOING](https://gacr.cz/pif-out-2026/) uděleným v roce 2024, zaměřeným na sdílení opylovačů mezi rostlinnými druhy.
-
--   V současnosti hostující na [CREAF](https://www.creaf.cat/en) ve skupině GEIP vedené [Jordi Boschem](https://orcid.org/0000-0002-8088-9457)
-
+-   Zaměstnanec na Katedře zoologie, Přírodovědecká fakulta UK, s projektem [GACR POSTDOC INDIVIDUAL FELLOWSHIP OUTGOING](https://gacr.cz/pif-out-2026/) uděleným v roce 2024, zaměřeným na sdílení opylovačů mezi rostlinnými druhy.
+-   [cite_start]V současnosti na hostování v [CREAF](https://www.creaf.cat/en) ve skupině GEIP vedené [Jordi Boschem](https://orcid.org/0000-0002-8088-9457). [cite: 35]
 
 ## Kontakt {style="text-align: justify;"}
 
--   Trvalá adresa: Trnová 17, Katusice, 294 25, Czech Republic
-
 -   E-mail: jakubstenc\@gmail.com
-
--   Telefon: +420 774553734
-
--   ORCID: http://orcid.org/0000-0001-5364-7180
-
--   Research Gate: https://www.researchgate.net/profile/Jakub_Stenc
+-   Telefon: +420 774 553 734
+-   ORCID: [0000-0001-5364-7180](http://orcid.org/0000-0001-5364-7180)
+-   Research Gate: [Jakub_Stenc](https://www.researchgate.net/profile/Jakub_Stenc)
 
 ## Zaměstnání {style="text-align: justify;"}
 
--   [Karlova Univerzita, Praha, Katedra botaniky](https://natur.cuni.cz/en/biology/departments-and-work-places/department-of-botany) (2019 – 2021), Technik v laboratoři 10% úvazek
-
--   [Karlova Univerzita, Praha, Katedra botaniky](https://natur.cuni.cz/en/biology/departments-and-work-places/department-of-botany) (2023 – nyní) Výzkumník v rámci projektu INTER-ACTION-LUAUS23, výzkumná činnost, terénní práce, 50% úvazek
-
--   [Akademie věd, Botanický ústav, Průhonice](https://www.ibot.cas.cz/) (2024 - nyní), postdoc, 50% úvazek
+-   [Karlova Univerzita, Praha, Katedra botaniky](https://natur.cuni.cz/en/biology/departments-and-work-places/department-of-botany) (2019 – 2021): Technik v laboratoři (úvazek 0,1).
+-   [Karlova Univerzita, Praha, Katedra botaniky](https://natur.cuni.cz/en/biology/departments-and-work-places/department-of-botany) (2023 – 2025): Výzkumník v rámci projektu INTER-ACTION-LUAUS23, výzkumná činnost, terénní práce (úvazek 0,5).
+-   [Akademie věd ČR, Botanický ústav, Průhonice](https://www.ibot.cas.cz/) (2024 – 2025): Postdoc (úvazek 0,5).
 
 ## Vzdělání {style="text-align: justify;"}
 
--   Ph.D. studium (1.10.2020 - 25.6.2024) Univerzita Karlova, Přírodovědecká fakulta, studijní program: Botanika, Ph.D. téma: Processes Driving Pollen Transfer in Generalised Pollination Systems, školitel: RNDr. Zdeněk Janovský Ph.D., studium dokončeno “cum laude”
-
--   Magisterské studium (1.10.2018 - 4.9.2020), Univerzita Karlova, Přírodovědecká fakulta, studijní program: Botanika, specializace geobotanika, magisterská práce: Changes in pollinator behaviour under different plant spatial aggregation, školitel: RNDr. Zdeněk Janovský Ph.D., studium dokončeno “cum laude”
-
--   Bakalářské studium (1.10.2015 – 15.6.2018), Univerzita Karlova, Přírodovědecká fakulta, studijní program: Biologie, bakalářská práce: Přenos pylu jako funkce prostorového uspořádání rostlin a vlastností opylovačů, školitel: RNDr. Zdeněk Janovský Ph.D.
+-   **Ph.D. studium** (2020 - 2024), Univerzita Karlova, Přírodovědecká fakulta, program Botanika.
+    Téma disertační práce: *Processes Driving Pollen Transfer in Generalised Pollination Systems*. Školitel: RNDr. Zdeněk Janovský Ph.D. [cite_start]Dokončeno „cum laude“[cite: 36, 37, 38].
+-   **Magisterské studium** (2018 - 2020), Univerzita Karlova, Přírodovědecká fakulta, program Botanika (geobotanika).
+    Diplomová práce: *Changes in pollinator behaviour under different plant spatial aggregation*. Školitel: RNDr. Zdeněk Janovský Ph.D. [cite_start]Dokončeno s vyznamenáním[cite: 39].
+-   **Bakalářské studium** (2015 – 2018), Univerzita Karlova, Přírodovědecká fakulta, program Biologie.
+    Bakalářská práce: *Přenos pylu jako funkce prostorového uspořádání rostlin a vlastností opylovačů*. Školitel: RNDr. [cite_start]Zdeněk Janovský Ph.D.[cite: 40].
 
 ## Mezinárodní zkušenost {style="text-align: justify;"}
 
--   University of Tartu, Tartu, Estonia. Erasmus studijní pobyt. 2019 (5 měsíců)
-
--   Oddělení biodiversity, Rey Juan Carlos University, Madrid, Španělsko, stáž pod vedením Marcose Méndeze (2 měsíce)
-
--   Katedra botaniky University of Granada, Granada, Španělskostáž pod vedením Roccio Peréz Barrales (1 měsíc)
-
-## Popularizace {style="text-align: justify;"}
-
--   Spoluautor výstavy “Intimní život rostlin”
+-   [cite_start]**University of Tartu**, Estonsko (2019): 6 měsíců, studijní pobyt Erasmus[cite: 41].
+-   **Rey Juan Carlos University**, Madrid, Španělsko (2022): 2 měsíce, stáž na oddělení biodiverzity pod vedením Marcose Méndeze.
+-   **University of Granada**, Španělsko (2023): 1 měsíc, stáž na katedře botaniky pod vedením Rocío Pérez Barrales.
 
 ## Granty {style="text-align: justify;"}
 
--   2018-2021 spoluřešitel projektu Grantové Agentury Univerzity Karlovy (GAUK): Plant population dynamics under anther smut epidemy and influence of pollinators on the rate of disease spread (1193619)
-
--   2019-2022 – hlavní řešitel projektu Grantové Agentury Univerzity Karlovy (GAUK): Flower traits as drivers of pollinator visitation behaviour (842120)
-
--   2021-2023 – hlavní řešitel projektu Grantové Agentury Univerzity Karlovy STAR: Do the plant pollen presentation schedules fit pollinator diurnal activity? A test of the Pollen Presentation Theory (0016935)
+-   **2018-2021** – Spoluřešitel projektu GAUK: *Plant population dynamics under anther smut epidemy and influence of pollinators on the rate of disease spread* (1193619).
+-   **2019-2022** – Hlavní řešitel projektu GAUK: *Flower traits as drivers of pollinator visitation behaviour* (842120).
+-   **2021-2023** – Hlavní řešitel projektu GAUK STAR: *Do the plant pollen presentation schedules fit pollinator diurnal activity? [cite_start]A test of the Pollen Presentation Theory* (0016935)[cite: 42, 43].
+-   **2025-2028** – Hlavní řešitel projektu GAČR (Postdoc Individual Fellowship Outgoing): *Long-term spatiotemporal dynamics in a plant-pollinator community and consequences for pollen transfer in a changing world* (25-17193O).
 
 ## Terénní zkušenost {style="text-align: justify;"}
 
--   2016-2017 – sběr dat o polinačních sítích v terénu pod vedením Roberta Tropka
-
--   2018-2020 – sběr dat o šíření květních snětí opylvoači v terénu pod vedením Kláry Koupilové
-
--   2017-2023 – vlastní sběr dat v rámci doktorské práce
-
--   2023 – 4 měsíce sběru dat v Ekvádoru pod vedením Petra Sklenáře v rámci výzkumu polinační biologie ve vysokohorském prostředí
+-   2016-2017 – Sběr dat o polinačních sítích (vedoucí: Robert Tropek).
+-   2018-2020 – Experimenty se šířením květních snětí opylovači (vedoucí: Klára Koupilová).
+-   2017-2023 – Sběr dat pro vlastní bakalářskou, diplomovou a disertační práci.
+-   [cite_start]2023 – 4 měsíce v Ekvádoru (Andy), výzkum polinační biologie ve vysokohorském prostředí (vedoucí: Petr Sklenář)[cite: 21].
 
 ## Jazykové a další dovednosti {style="text-align: justify;"}
 
--   Český jazyk (rodilý mluvčí)
-
--   Anglický jazyk (pokročilý)
-
--   Španělský jazyk (mírně pokročilý)
-
--   Řidičký průkaz A1 a B
+-   Čeština (rodilý mluvčí)
+-   Angličtina (pokročilý - C1/C2)
+-   Španělština (mírně pokročilý)
+-   Řidičský průkaz sk. [cite_start]A1 a B [cite: 44]
 
 ## Školení studenti {style="text-align: justify;"}
 
--   Alice Haveldová (bakalářská práce, školitel, [obhájena](https://dspace.cuni.cz/handle/20.500.11956/126388))
-
--   Karolína Chvojková (bakalářská práce, školitel, [obhájena](https://dspace.cuni.cz/handle/20.500.11956/126310))
-
--   Natálie Hanusová (bakalářská a diplomová práce, školitel, probíhající)
-
--   Petr Švanda (bakalářská a magisterská práce, školitel, probíhající)
-
--   Zuzana Matějková (bakalářská a magisterská práce, konzultant, nikdy nedokončená, nikdy nezapomenutá)
-
--   Klára Doksanská (bakalářská, školitel, probíhající)
-
--   Kateřina Příbramská (bakalářská, školitel, probíhající)
-
--   Aneta Hynčicová (bakalářská, školitel, probíhající)
-
--   Eva Matoušková (PhD, školitel, probíhající)
-
--   Lucie Holzbachová (magisterská práce, konzultant, probíhající)
+-   Alice Haveldová (Bc., obhájeno)
+-   Karolína Chvojková (Bc., obhájeno)
+-   Natálie Hanusová (Bc., Mgr., obhájeno)
+-   Petr Švanda (Bc., Mgr., probíhající)
+-   Klára Doksanská (Bc., probíhající)
+-   Kateřina Příbramská (Bc., probíhající)
+-   Aneta Hynčicová (Bc., probíhající)
+-   Eva Matoušková (PhD, probíhající)
+-   Lucie Holzbachová (Mgr., probíhající)
 
 ## Publikace {style="text-align: justify;"}
 
@@ -362,36 +332,86 @@ Currently, the following topics for bachelor's and master's thesis are available
 
 ![Eristalis on artificial flower](images/IMG_3465c.JPG)
 :::
-
 ::: {.content-visible when-profile="czech"}
 # Témata výzkumu {style="text-align: center;"}
 
 ## FLOVID: Databáze návštěvníků květů {style="text-align: justify;"}
 
-![Painted lady (Vanessa cardui) visiting danewort (Sambucus ebulus)](images/Vanessa_cardui_(babocka_bodlakova)_na_bezu_cehbdi2.jpg)
+Kdo jsou opylovači volně rostoucích rostlin? Jaké jsou globální vzorce v interakcích rostlin a opylovačů? Co formuje složení spekter opylovačů?
+To jsou základní otázky, které překvapivě zůstávají z velké části nezodpovězeny.
+
+Dosud jsme zjistili, že:
+- Většina rostlin má spektra opylovačů dominovaná mouchami, pestřenkami nebo blýskáčky, případně zcela generalizovaná.
+- Schopnost rostliny dominovat ve společenstvu ovlivňuje složení jejích opylovačů.
+- Širší nika rostlinného druhu vede k generalizovanějším spektrům opylovačů.
+
+Více se dočtete v publikaci:
+*Janovský, Z., & Štenc, J. (2023). Pollinator community and generalisation of pollinator spectra changes with plant niche width and local dominance. Functional Ecology.*
+
+![Babočka bodláková (Vanessa cardui) na bezu chebdí (Sambucus ebulus)](images/Vanessa_cardui_(babocka_bodlakova)_na_bezu_cehbdi2.jpg)
 
 ## Přenos pylu {style="text-align: justify;"}
 
-V rámci tohoto tématu je možné zpracovávat bakalářskou a diplomovou práci pod mým vedením. Vypsaná témata najdete na této stránce.
+Jak je pyl přenášen? Kolik pylových zrn je úspěšně doručeno na bliznu a kolik je nenávratně ztraceno?
+V posledních letech jsme se s kolegy zaměřili na načasování uvolňování pylu z květů. Zjistili jsme, že rostliny mohou časovat uvolňování pylu, což následně ovlivňuje načasování interakcí s opylovači a strukturu celé sítě.
 
-![Pollen of Devil's bite Scabious (Succisa pratensis) on stigma](images/pyl_na_blizne3.jpg)
+Více v článku:
+*Štenc, J., et al. (2023). Pollinator visitation closely tracks diurnal patterns in pollen release. American Journal of Botany.*
+
+![Pyl čertkuse lučního (Succisa pratensis) na blizně](images/pyl_na_blizne3.jpg)
 
 ## Sdílení opylovačů rostlinami {style="text-align: justify;"}
 
-V rámci tohoto tématu je možné zpracovávat bakalářskou a diplomovou práci pod mým vedením.
+Rostliny často sdílí celou řadu opylovačů. Jak ale tato skutečnost ovlivňuje přenos pylu? Jak mohou takové druhy koexistovat? A existují mechanismy, které zmírňují přenos cizího (heterospecifického) pylu?
+Právě těmto otázkám se budu věnovat v nadcházejících letech během své postdoktorandské stáže v Barceloně.
+
+V současné době jsou k dispozici následující témata pro bakalářské a diplomové práce:
+*[Mechanismy ovlivňující přenos heterospecifického pylu a jejich vliv na dlouhodobou koexistenci rostlin](https://is.cuni.cz/studium/dipl_st/index.php?id=&tid=&do=main&doo=detail&did=279151)*
+*[Vliv květních znaků na sdílení opylovačů mezi rostlinami](https://is.cuni.cz/studium/dipl_st/index.php?id=&tid=&do=main&doo=detail&did=279151)*
+
+![Pyl různých druhů odebraný z těla opylovače](images/FS_VM_pell1_048.jpg)
 
 ## Chování opylovačů {style="text-align: justify;"}
 
-V rámci tohoto tématu je možné zpracovávat bakalářskou a diplomovou práci pod mým vedením.
+Jak barva, velikost a tvar květů ovlivňují rozhodování opylovačů o návštěvě květu? Jak tyto znaky ovlivňují věrnost opylovačů (konstanci)?
+Ke studiu chování opylovačů využíváme jak umělé květy (vytištěné na 3D tiskárně), tak živé rostliny. Zaměřujeme se například na pestřenku *Eristalis tenax*, kterou lze chovat v laboratorních podmínkách, což nám umožňuje porovnávat naivní a zkušené jedince.
+
+Více v článku:
+*[Matoušková, E., Štenc, J., & Janovský, Z. (2023). Innate preferences of Eristalis tenax... Biological Journal of the Linnean Society](https://doi.org/10.1093/BIOLINNEAN/BLAD035).*
+
+V současné době je k dispozici téma pro závěrečnou práci:
+*[Faktory ovlivňující chování opylovačů ve vztahu k přenosu pylu](https://is.cuni.cz/studium/dipl_st/index.php?id=&tid=&do=main&doo=detail&did=279279)*
+
+![Pestřenka (Eristalis) na umělém květu](images/IMG_3465c.JPG)
 :::
-:::: 
 :::: {#contanctme}
 
 ::: {#contactme .content-visible when-profile="english"}
-# Contact me  {style="text-align: center;"}
+# Contact me {style="text-align: center;"}
 :::
 
 ::: {#kontaktujme .content-visible when-profile="czech"}
-# Kontaktuj mě! {style="text-align: center;"}
+# Kontaktuj mě {style="text-align: center;"}
 :::
+
+<div style="text-align: center; font-size: 2.5em; margin-top: 20px; margin-bottom: 40px;">
+  
+  <a href="mailto:jakubstenc@gmail.com" aria-label="Email" style="margin: 0 15px; color: inherit; text-decoration: none;">
+    <i class="bi bi-envelope-at-fill"></i>
+  </a>
+
+  <a href="https://wa.me/420774553734" target="_blank" aria-label="WhatsApp" style="margin: 0 15px; color: inherit; text-decoration: none;">
+    <i class="bi bi-whatsapp"></i>
+  </a>
+
+  <a href="https://discord.com/users/kuba07156" target="_blank" aria-label="Discord" style="margin: 0 15px; color: inherit; text-decoration: none;">
+    <i class="bi bi-discord"></i>
+  </a>
+
+  <a href="https://github.com/jakubstenc" target="_blank" aria-label="GitHub" style="margin: 0 15px; color: inherit; text-decoration: none;">
+    <i class="bi bi-github"></i>
+  </a>
+
+</div>
+
 ::::
