@@ -5,7 +5,6 @@ format:
     sidebar: true
     anchor-sections: true
 ---
-
 <meta name="google-site-verification" content="_ALkyF3YuAHp5-OSHb0UI4JC0hCsn1ce9XL8cUxTKk8" />
 :::: {#aboutme}
 ::: {#about .content-visible when-profile="english"}
