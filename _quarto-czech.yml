@@ -3,6 +3,9 @@ project:
   output-dir: ./docs/cz
 
 website:
+  page-navigation: true
+  favicon: "images/pyl.png"
+  site-url: "https://jakubstenc.github.io/jakubstenc"
   navbar:
     logo: "images/pyl.png"
     logo-href: index.html
