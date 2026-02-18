@@ -39,6 +39,9 @@ V současnosti působím ve výzkumném ústavu [CREAF](https://www.creaf.cat/en
 # Curriculum vitae {#CVtag style="text-align: center;"}
 
 ::: {#CVen .content-visible when-profile="english" style="text-align:  justify;"}
+
+[Download CV as PDF](cv_en.pdf){.btn .btn-outline-primary}
+
 ## Name and date of birth {style="text-align: justify;"}
 -   Mgr. Jakub Štenc, Ph.D.
 -   Born: 4th March 1996 in Mladá Boleslav, Czechia
@@ -185,6 +188,9 @@ V současnosti působím ve výzkumném ústavu [CREAF](https://www.creaf.cat/en
 :::
 
 ::: {#CVcze .content-visible when-profile="czech"}
+
+[Stáhnout životopis v PDF](../cv_cs.pdf){.btn .btn-outline-primary}
+
 ## Jméno a datum narození {style="text-align: justify;"}
 
 -   Mgr. Jakub Štenc, Ph.D.

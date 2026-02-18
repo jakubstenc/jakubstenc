@@ -4,6 +4,8 @@ project:
   render:
     - "*.qmd"
     - "!archive/"
+    - "!cv_en.qmd"
+    - "!cv_cs.qmd"
   post-render:
     - cp googleb16326ba55692535.html docs/googleb16326ba55692535.html
 website:

@@ -1,2 +1,1 @@
-quarto render --profile english
-quarto render --profile czech
+system("./build_site.sh")
