@@ -349,6 +349,15 @@ Currently, the following topics for bachelor's and master's thesis are available
 -   [Factors affecting pollinator behaviour in relation to pollen transfer](https://is.cuni.cz/studium/dipl_st/index.php?id=&tid=&do=main&doo=detail&did=279279)
 
 ![Eristalis on artificial flower](images/IMG_3465c.JPG)
+
+## Pollinators of Handrkov {style="text-align: justify;"}
+
+A long-term field research project based in the meadow near Handrkov.
+The main goal is to investigate relationships between plants, their pollinators, and pollinator parasites.
+We run a series of experiments, some of which have been ongoing since 2011, to understand the stability of these relationships and what influences them in a meadow ecosystem.
+The project also serves as a meeting point for people interested in field research.
+
+[Read more about the project](https://pollination-ecology-group.github.io/Handrkov/index_en.html)
 :::
 
 ::: {.content-visible when-profile="czech"}
@@ -402,6 +411,15 @@ V současné době je k dispozici téma pro závěrečnou práci:
 *[Faktory ovlivňující chování opylovačů ve vztahu k přenosu pylu](https://is.cuni.cz/studium/dipl_st/index.php?id=&tid=&do=main&doo=detail&did=279279)*
 
 ![Pestřenka (Eristalis) na umělém květu](images/IMG_3465c.JPG)
+
+## Opylovači Handrkov {style="text-align: justify;"}
+
+Dlouhodobý terénní výzkum na louce u Handrkova.
+Cílem je zkoumat nastavení vztahů mezi rostlinami, jejich opylovači a parazity opylovačů.
+Pomocí série pokusů, z nichž některé běží už od roku 2011, zjišťujeme, jak stabilní jsou tyto vztahy a co je může na takové obyčejné louce ovlivňovat.
+Akce také slouží k setkávání lidí se zájmem o terénní výzkum.
+
+[Více o projektu](https://pollination-ecology-group.github.io/Handrkov/)
 :::
 ::::
 :::: {#contanctme}
